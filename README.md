@@ -1,3 +1,13 @@
+## LIVE DEMO
+
+You can check out the live demo on Vercel via this [link](https://hulu-clone-v2-gules.vercel.app/)
+
+### The look of the app in Mobile Devices
+
+It is responsive on all screen sizes including 4K screens.
+
+<img src="/1.png"/>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
